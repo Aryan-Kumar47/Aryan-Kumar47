@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experie
 ---
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aryankumar10/)
-- Portfolio: [yourportfolio.com](https://aryankumarportfolio.vercel.app/)
+- LinkedIn: [aryankumar10](https://www.linkedin.com/in/aryankumar10/)
+- Portfolio: [aryankumarportfolio.vercel.app](https://aryankumarportfolio.vercel.app/)
 - Email: kumararyan101203@gmail.com
 
 ---
